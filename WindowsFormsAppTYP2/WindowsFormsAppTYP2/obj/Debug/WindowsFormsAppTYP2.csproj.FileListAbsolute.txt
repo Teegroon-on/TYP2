@@ -1,0 +1,9 @@
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\bin\Debug\WindowsFormsAppTYP2.exe.config
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\bin\Debug\WindowsFormsAppTYP2.exe
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\bin\Debug\WindowsFormsAppTYP2.pdb
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.Form1.resources
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.Properties.Resources.resources
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.csproj.GenerateResource.cache
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.csproj.CoreCompileInputs.cache
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.exe
+C:\Users\Teegroon\Source\Repos\NewRepoTUP2\WindowsFormsAppTYP2\WindowsFormsAppTYP2\obj\Debug\WindowsFormsAppTYP2.pdb
